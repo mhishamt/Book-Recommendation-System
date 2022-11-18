@@ -16,5 +16,5 @@ Click to get Dataset[ here](https://www.kaggle.com/ra4u12/bookrecommendation)
 
 # Project Demo Video
 
-![6](https://github.com/mhishamt/Book-Recommendation-System/blob/main/Project%20Demo%20video/App_Demo_Video.mp4)
+![5](https://github.com/mhishamt/Book-Recommendation-System/blob/main/Project%20Demo%20video/App_Demo_Video.mp4)
 
